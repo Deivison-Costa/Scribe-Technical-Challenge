@@ -122,7 +122,7 @@ Initial situations via migration:
 - IntelliJ IDEA Ultimate
 
 ## List of endpoints
-![AppInExecution](https://github.com/Deivison-Costa/Scribe-Technical-Challenge/assets/112001225/459b07f0-e950-4641-be68-37255b857670)
+![1](https://github.com/Deivison-Costa/Scribe-Technical-Challenge/assets/112001225/0c376cc5-9822-4a6a-8085-7873cde678d9)
 
 ## Database
-![AppInExecution2](https://github.com/Deivison-Costa/Scribe-Technical-Challenge/assets/112001225/bf309e4c-047b-4ae6-aba5-9f0ffbfedac4)
+![2](https://github.com/Deivison-Costa/Scribe-Technical-Challenge/assets/112001225/2ce9c0cd-16e9-4d4e-b2ca-ea7a547802c7)
